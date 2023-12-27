@@ -1,3 +1,8 @@
+# About Project
+Made this project to learn ReactJS and fetch APIsfrom coinranking Api using Redux toolkit
+This Project Includes all cryptos Details and detailed analysis for each Cryptocurrencies 
+In future there is my plan to add charts to asses  history of any crypto and Also use news  to add latest crypto News
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
